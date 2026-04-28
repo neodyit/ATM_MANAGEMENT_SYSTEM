@@ -16,6 +16,10 @@ A simple menu-driven ATM Simulation project written in Python.
 
 - Python 3.x
 
+## Description
+
+This ATM Simulation allows users to check their balance, deposit money, withdraw money, and view their transaction history. The program runs continuously until the user chooses the exit option.
+
 ## Rights 
 This project is open-source and free to use. You can modify and distribute it as you like.
 
